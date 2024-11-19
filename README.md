@@ -1,5 +1,7 @@
 # Icon
-![Frame 11 copy](https://github.com/user-attachments/assets/826ce738-fcd6-475e-b101-a4e7c802702b)
+![Slide 16_9 - 24 copy](https://github.com/user-attachments/assets/fbfbc295-cff4-4489-af99-1ce2bd651896)
+
+## [View the Demo](https://www.youtube.com/watch?v=HT2pMsUlEv8)
 
 
 # Sign up Flow
@@ -19,6 +21,5 @@
 
 
 # Scanning Process
-## [Scanning Demo](https://www.youtube.com/watch?v=HT2pMsUlEv8)
 ## [How Places Can Sign Up to use eQoScan](https://youtu.be/PaEjq0oDOYU)
 
