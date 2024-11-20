@@ -1,26 +1,41 @@
-# Icon
-![Slide 16_9 - 24 copy](https://github.com/user-attachments/assets/fbfbc295-cff4-4489-af99-1ce2bd651896)
-
+# eQoScan
+<img src = "https://github.com/avan36/eQoScan/blob/main/Slide%2016_9%20-%2024Full%20Quality.png" width = "400">
 
 ## [View the Demo](https://www.youtube.com/watch?v=HT2pMsUlEv8)
+### [How Places Can Sign Up to use eQoScan](https://youtu.be/PaEjq0oDOYU)
 
 
 # Sign up Flow
-![IMG_6884](https://github.com/user-attachments/assets/cb13b5e5-4c3b-457d-88e4-27a36339b58e)
-![IMG_6885](https://github.com/user-attachments/assets/9ec81207-853e-4813-a665-c7170e085177)
-![IMG_6886](https://github.com/user-attachments/assets/36a0e862-515a-43fd-87be-16ca15ae6467)
-![IMG_6880](https://github.com/user-attachments/assets/c7a60948-36ba-4dcf-8f01-29a9534d742c)
-![IMG_6889](https://github.com/user-attachments/assets/45d229f8-5289-4169-bee2-5a6c7473f3da)
-![ScreenRecording_11-17-2024 11-57-13_1](https://github.com/user-attachments/assets/ab144a8f-a91f-40aa-84d5-158eee5ca35d)
+<div>
+<img src= "https://github.com/avan36/eQoScan/blob/main/IMG_6968Full%20Quality.PNG?" width="250">
+<img src= "https://github.com/avan36/eQoScan/blob/main/IMG_6969Full%20Quality.PNG?" width="250">
+<img src= "https://github.com/avan36/eQoScan/blob/main/IMG_6970Full%20Quality.PNG?" width="250">
+<img src="https://github.com/avan36/eQoScan/blob/main/IMG_6888Full%20Quality.PNG" width="250">
+</div>
+
 
 
 # Once signed In
 ## Home Screen (with updated last scanned location + credits)
-![IMG_6882](https://github.com/user-attachments/assets/9de3901c-915f-4846-8395-369db65c2582)
+
+<img src="https://github.com/avan36/eQoScan/blob/main/IMG_E28BCE7C0E6B-1Full%20Quality.jpeg" width="250">
+
 ## Scanning
-![IMG_66C4BBD075C1-1](https://github.com/user-attachments/assets/6afb72f7-257d-4c9e-8551-eb9629f0b27a)
+<div>
+<img src="https://github.com/avan36/eQoScan/blob/main/IMG_3403FF3329CB-1Full%20Quality.jpeg" width="250">
+<img src="https://github.com/avan36/eQoScan/blob/main/Screenshot%202024-11-19%20at%208.27.32%E2%80%AFPMFull%20Quality.png" width="250">
+</div>
+
+## Settings
+<img src="https://github.com/avan36/eQoScan/blob/main/IMG_9B45DFC69323-1Full%20Quality.jpeg" width="250">
+
+# Web Portal
+<div>
+<img src = "https://github.com/avan36/eQoScan/blob/main/Screenshot%202024-11-19%20at%208.27.18%E2%80%AFPMFull%20Quality.png?raw=true" height = "250">
+<img src = "https://github.com/avan36/eQoScan/blob/main/Screenshot%202024-11-19%20at%208.28.00%E2%80%AFPMFull%20Quality.png" height = "250">
+<img src = "https://github.com/avan36/eQoScan/blob/main/Screenshot%202024-11-19%20at%208.28.10%E2%80%AFPMFull%20Quality.png?raw=true" height = "250">
+</div>
 
 
-# Scanning Process
-## [How Places Can Sign Up to use eQoScan](https://youtu.be/PaEjq0oDOYU)
+
 
