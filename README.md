@@ -4,7 +4,6 @@
 ## [View the Demo](https://www.youtube.com/watch?v=HT2pMsUlEv8)
 ### [How Places Can Sign Up to use eQoScan](https://youtu.be/PaEjq0oDOYU)
 
-
 # Sign up Flow
 <div>
 <img src= "https://github.com/avan36/eQoScan/blob/main/IMG_6968Full%20Quality.PNG?" width="250">
